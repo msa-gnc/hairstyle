@@ -1,15 +1,15 @@
-const style = [
+const hairStyle = [
     {
         id:1,
-        title:"Buzz Kesim",
-        image:"https//images.ctfassets.net/fjeyrovsyy5v/2E1QtKj3ZbaMYACKh5ZRmh/973e05fafb036e95ba37af2fb541b084/avc-mpg-hair-styling-for-modern-men-buzz-cut.jpg?fm=webp&w=555",
-        description:"Askeri kesim” olarak da bilinen bu ünlü erkek saç stili, 100 yılı aşkın bir süredir kullanılıyor ve günümüzde de halen oldukça popüler. Bu basit model, saçın kafa derisine çok yakın biçimde kısacık kesilmesinden ibaret. Aşağıda buzz kesimi hızlı ve basit şekilde nasıl yapabileceğinizi görebilirsiniz."
+        title:"Mohawk Kesim",
+        image:"https://images.ctfassets.net/fjeyrovsyy5v/5vv7srWNRDIeK55tdUPInQ/60621f5becc76f5dfdb884a7da0ceb30/avc-mpg-hair-styling-for-modern-men-mohawk.jpg?fm=webp&w=555",
+        description:"Bu stil, Pompadour ve Mohawk modellerini bir araya getirir. İçe doğru çıkıntılı bir görünümle gevşek bırakılmış uzun bir saç şeridi ve tıraş edilmiş kenarlar içerir. Faux Hawk kesim, Pompadour’dan daha şık görünür ancak Mohawk kesimin aksine iş hayatında dahi kullanılabilir. Pek çok varyantı olsa da Fade Faux Hawk en popüler stillerden biridir. Kısa Fade Mohawk olarak da bilinen bu stilde, saçın kenar kalınlığı, tepedeki sivri uçla orantılıdır. Fade etkisi daha yumuşaktır ve incelen saçlar üst kısımdaki büyük saç şeridi ile pürüzsüz biçimde karışır."
     },
     
     {
         id:2,
-        title:"Crew Kesim",
-        image:"https://images.ctfassets.net/fjeyrovsyy5v/7tGKFwPF6Dj6luxvXC7oSf/901d19dd4da9bbfc57a3e729414d2cc9/avc-mpg-hair-styling-for-modern-men-crew-cut.jpg?fm=webp&w=555",
+        title:"Faux Hawk Kesim",
+        image:"https://images.ctfassets.net/fjeyrovsyy5v/2gGqrl8pr7RBJwX6L9HnyW/030b0e089c734ed1f5685844972e009d/avc-mpg-hair-styling-for-modern-men-faux-hawk.jpg?fm=webp&w=555",
         description:"Asker tıraşı” olarak geçen erkek saç modelleri arasında, Crew kesim oldukça yaygındır ve hem az bakım gerektirmesi hem de çok kısa olması nedeniyle özellikle sporcular tarafından tercih edilir. Crew kesim, alın kısmından başın tepesine (başın tepesinin arkaya kıvrılmaya başladığı yere) doğru giderek kısalarak Fade etkili kenarları olan basit bir stildir."
     },
     {
@@ -66,4 +66,4 @@ const style = [
     
 ]
 
-export default style;
+export default hairStyle;

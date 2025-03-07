@@ -1,0 +1,33 @@
+.container{
+ 
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    padding: 3rem;
+
+
+
+    .title{
+
+        width: 50%;
+        display: flex;
+        justify-content: center;
+        flex-direction: row-reverse;
+        flex-wrap: wrap;
+        
+        h1{
+           font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+        }
+        p{
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+    }
+    
+    .image{
+        width: 50%;
+        img{
+            width: 300px;
+        }
+    }
+}
