@@ -1,7 +1,7 @@
 import React from 'react'
 import "./Card.scss"
 
-const Card = ({title,image,description}) => {
+const Card = ({title,img,description}) => { 
   return (
     <div className='container'>
 
@@ -10,7 +10,7 @@ const Card = ({title,image,description}) => {
         <p>{description}</p>
         </div>
         <div className='image'>
-         <img src={image} alt="" />
+         <img src={img} alt="" /> 
          </div>
         </div>
   )
