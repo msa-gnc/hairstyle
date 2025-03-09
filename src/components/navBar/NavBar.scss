@@ -1,0 +1,47 @@
+.wrapper{
+
+    display: flex;
+    justify-content: space-between;
+    padding:0.3rem 0.5rem;
+    background-color: #160707 ;
+    
+    
+
+    
+.home{
+   
+  
+}
+.style{
+   
+    display: flex;
+    justify-content: flex-end;
+
+    button{
+        margin-left: 1rem;
+
+      
+    }
+}
+    
+   
+}
+
+button{
+    color: white;
+    background-color: #381a02;
+    padding: 0.4rem 0.5rem;
+    font-weight:600;
+    cursor: pointer;
+    border-radius: 0.3rem;
+    border: none;
+    transition: ease 0.25s;
+   
+
+    &:hover{
+    background-color: #6b3204;
+    }
+
+   
+   
+}

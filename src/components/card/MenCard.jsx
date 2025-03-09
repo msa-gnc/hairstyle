@@ -1,7 +1,7 @@
 import React from 'react'
 import "./Card.scss"
 
-const Card = ({title,img,description}) => { 
+const MenCard = ({title,img,description}) => { 
   return (
     <div className='container'>
 
@@ -16,4 +16,4 @@ const Card = ({title,img,description}) => {
   )
 }
 
-export default Card
+export default MenCard;
