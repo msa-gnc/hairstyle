@@ -19,8 +19,13 @@ const NavBar = () => {
       <Link to="/women">
       <button>Kadın Stilleri</button>
       </Link>
+      
       <Link to="/men">
       <button>Erkek Stilleri</button>
+      </Link>
+
+      <Link to="/Comment">
+      <button>Yorumlar</button>
       </Link>
       
       </div>

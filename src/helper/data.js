@@ -131,6 +131,41 @@ const hairStyle = [
             description: "Doğal uzun saç modeli, minimal bakım gerektiren ve doğal güzelliği ön plana çıkaran bir kesimdir. Saçın sağlıklı görünmesi için düzenli bakım önerilir."
         }
     ]
+    },
+    {id:3,
+        avatar:[
+            {id:1,
+                url:"https://img.freepik.com/free-vector/smiling-redhaired-boy-illustration_1308-176664.jpg?semt=ais_hybrid"
+            },
+            {id:2,
+                url:"https://img.freepik.com/free-psd/3d-illustration-with-online-avatar_23-2151303097.jpg?semt=ais_hybrid"
+            },
+            {id:3,
+                url:"https://img.freepik.com/free-vector/young-prince-vector-illustration_1308-174367.jpg?semt=ais_hybrid"
+            },
+            {id:4,
+                url:"https://img.freepik.com/free-psd/3d-rendering-hair-style-avatar-design_23-2151869153.jpg?semt=ais_hybrid"
+            },
+            {id:5,
+                url:"https://img.freepik.com/free-vector/smiling-redhaired-boy-illustration_1308-175803.jpg?semt=ais_hybrid"
+            },
+            {id:6,
+                url:"https://img.freepik.com/free-vector/woman-with-braided-hair-illustration_1308-174675.jpg?ga=GA1.1.1483889744.1741755748&semt=ais_hybrid"
+            },
+            {id:7,
+                url:"https://img.freepik.com/free-psd/3d-rendering-hair-style-avatar-design_23-2151869121.jpg?ga=GA1.1.1483889744.1741755748&semt=ais_hybrid"
+            },
+            {id:8,
+                url:"https://img.freepik.com/premium-vector/actress-vector-character-illustration-flat-style_1033579-56640.jpg?ga=GA1.1.1483889744.1741755748&semt=ais_hybrid"
+            },
+            {id:9,
+                url:"https://img.freepik.com/free-psd/3d-rendering-hair-style-avatar-design_23-2151869123.jpg?ga=GA1.1.1483889744.1741755748&semt=ais_hybrid"
+            },
+            {id:10,
+                url:"https://img.freepik.com/premium-psd/3d-render-cartoon-avatar-isolated_570939-44.jpg?ga=GA1.1.1483889744.1741755748&semt=ais_hybrid"
+            }
+            
+        ]
     }
     
     

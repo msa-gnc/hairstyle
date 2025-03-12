@@ -1,7 +1,7 @@
 import React from 'react'
-import "./Card.scss"
+import "./HairCard.scss"
 
-const MenCard = ({title,img,description}) => { 
+const HairCard = ({title,img,description}) => { 
   return (
     <div className='container'>
 
@@ -16,4 +16,4 @@ const MenCard = ({title,img,description}) => {
   )
 }
 
-export default MenCard;
+export default HairCard;

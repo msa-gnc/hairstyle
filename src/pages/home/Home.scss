@@ -3,42 +3,31 @@
     background-image: linear-gradient(to right,rgb(255, 48, 83)
     0%,rgb(0, 238, 255) 100%);
     min-height: 100vh;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    flex-wrap: wrap;
 
     img{
         width: 200px;
+        border-radius: 4rem 0;
+       
+
+    }
+
+    .women-img{
+    border-radius: 0 4rem;
     }
     
     h1{
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%,-50%);
         font-family: monospace;
        font-style:italic;
-        
-       
-
+       color: white;
+      font-size: 2rem;
+    
     }
     
    
     
 }
 
-.imgWomen{
-    position: absolute;
-    left: 0;
-    bottom: 10px;
-    height: 250px;;
-    margin-left:0.5rem ;
-    
-}
-
-
-.imgMen{
-    position: absolute;
-    right: 0;
-    top: 60px;
-    height: 260px;;
-    margin-right: 0.5rem;
-
-}
